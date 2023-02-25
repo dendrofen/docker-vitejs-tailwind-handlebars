@@ -13,7 +13,7 @@ Scaffold a new project using dokerized boilerplate of ViteJS, TailwindCSS and Ha
 ## Demo
 
 Project contains 2 web pages demo, implementing all essentials code structures of used packages.
-Run or build project to see, and modify. You can just empty src folder in case whant start from scratch.
+Run or build project to see, and modify. You can empty src folder in case to start project from scratch.
 
 ## Run Locally
 
